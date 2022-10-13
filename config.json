@@ -1,0 +1,19 @@
+{
+  "ownerNumber": ["6281287968321@s.whatsapp.net"], 
+  "ownerName": ["VannRzld"], 
+  "botName": "VannMD", 
+  "youtubeOwner": "https://youtube.com/channel/Vann", 
+  "web": "https://proxy.site", 
+  "donasiQris": "https://i.ibb.co/CVMrYwV/Qris-Tsuyuzaki.jpg",
+  "donasiPulsa": "082118596966", 
+  "footer": "© Vannrzldメ", 
+  "fake": "© Create VannSixteen", 
+  "sessionName": "session",
+  "pathimg": "./media/misaki.jpg",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 99999,
+	"user": 20
+  }
+}
